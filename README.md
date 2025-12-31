@@ -1,4 +1,6 @@
 📊 Key Insights from EDA
+
+
 Detailed Exploratory Data Analysis was performed using Plotly to visualize risk factors:
 
 Wealth Levels: Analysis of Checking and Saving accounts revealed that individuals with "Little" wealth carry a statistically higher risk of default.
